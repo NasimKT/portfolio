@@ -17,6 +17,7 @@ body{
 }
 .readMoreBtn:hover{
     background-color: aqua;
+    color: #06141B;
 }
 header{
     background-color: #06141B;
