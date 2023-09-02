@@ -3,6 +3,7 @@ body{
 }
 a{
     text-decoration: none;
+    color: aliceblue;
 }
 header{
     background-color: #06141B;
@@ -52,7 +53,7 @@ header ul li:hover::after{
 }
 .write-style4{
     text-align:center;
-
+    size: 10px;
 }
 .right-image {
     float: right;
